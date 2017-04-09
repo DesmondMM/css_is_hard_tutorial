@@ -68,3 +68,7 @@ a:active {
 a:visited:hover {
     color: orange;
 }
+
+p:last-of-type {
+    margin-bottom: 50px;
+}
