@@ -6,3 +6,7 @@ em, strong {
     background-color: #B2D6FF;
     display: inline;             /* This is the default for em and strong */
 }
+
+h1 {
+    padding: 50px;
+}
