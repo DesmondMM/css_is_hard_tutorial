@@ -13,5 +13,6 @@ h1 {
 }
 
 p {
-    padding: 20px 0 20px 10px;  /* Top  Right  Bottom  Left */
+    padding: 20px 0 20px 10px;
+    margin-bottom: 50px;
 }
