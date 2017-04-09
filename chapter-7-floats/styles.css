@@ -11,6 +11,7 @@
 
 .sidebar {
     width: 200px;
+    float: left;
     height: 300px;
     background-color: #F09A9D;    /* Red */
 }
