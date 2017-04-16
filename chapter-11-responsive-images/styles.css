@@ -46,6 +46,11 @@
 .feature-3 {
     background-color: #C8C6FA;
 }
+
+.illustration {
+    width: 100%;
+}
+
 /* Mobile Styles */
 @media only screen and (max-width: 400px) {
     body {
