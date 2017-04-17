@@ -11,6 +11,25 @@
     .center {
       text-align: center;
     }
+    figcaption {
+      display: none;
+    }
+    @media only screen and (min-width: 900px) {
+      figure {
+        position: relative;
+      }
+      figcaption {
+        display: block;
+
+        font-style: italic;
+        text-align: right;
+        background-color: #FFFFFF;
+
+        position: absolute;
+        left: -220px;
+        width: 200px;
+      }
+    }
   </style>
 </head>
 <body>
