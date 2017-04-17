@@ -189,6 +189,10 @@ nav a:visited:active {
   }
 }
 
+em, strong {
+  font-synthesis: none;
+}
+
 
 @media only screen and (min-width: 750px) {
   nav {
